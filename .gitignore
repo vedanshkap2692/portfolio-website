@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Planning docs (local only)
+plan.md
+sessionlog.md
+changelog.md
+assets.md
+references.md
+*.pdf
+
+# Duplicate src/ scaffold
+src/
